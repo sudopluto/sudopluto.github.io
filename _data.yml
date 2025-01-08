@@ -1,0 +1,12 @@
+lang: en
+home:
+  welcome: a work in progress blog for pranav sharma (sudopluto)
+menu_links: []
+metas:
+  site: sudopluto blog
+  description: work in progress blog for pranav sharma (sudopluto)
+  title: =title
+  image: =image
+  twitter: '@sudopluto'
+  lang: en
+  generator: true
